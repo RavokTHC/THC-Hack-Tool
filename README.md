@@ -8,10 +8,9 @@
 
 # Aviso Legal! ![test](https://icon-icons.com/icons2/259/PNG/64/ic_warning_128_28766.png)
 >Uso do THC Hack Tool
->para atacar alvos sem consentimento prévio mútuo é ilegal.			            
->É responsabilidade do usuário final obedecer a todas os Leis Locais, Estaduais e Federais								                                             
->Os desenvolvedores não assumem nenhuma responsabilidade e não são responsá-veis ​​por qualquer uso indevido ou danos causados ​​por este programa     
-                                                                           
+>É responsabilidade do usuário final obedecer a todas os Leis Locais, 
+>Os desenvolvedores não assumem nenhuma responsabilidade e não são responsá-veis ​​por qualquer uso indevido ou danos causados ​​
+ 
                            RavokTHC-420
                           
 ![test](http://betsaidamap.com/images/separador.png)
